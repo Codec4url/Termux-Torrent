@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # Project name : Termux-Torrent
-# Coded by: Khansaad1275 (You dont become a coder by just changing the credits)
-# Github: https://github.com/khansaad1275/Termux-Torrent
+# Coded by: Codec4url (You dont become a coder by just changing the credits)
+# Github: https://github.com/Codec4url/Termux-Torrent
 # Date : 15/2/2022
 
 clear
@@ -14,7 +14,7 @@ echo -e "\e[032m" "   ██║   ██║   ██║██████╔╝�
 echo -e "\e[032m" "   ██║   ██║   ██║██╔══██╗██╔══██╗██╔══╝  ██║╚██╗██║   ██║   "
 echo -e "\e[032m" "   ██║   ╚██████╔╝██║  ██║██║  ██║███████╗██║ ╚████║   ██║   "
 echo -e "\e[032m" "   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   "
-echo -e "\e[032m" "--------------------[LearnTermux.tech]-----------------------"
+echo -e "\e[032m" "--------------------[Codec4url]-----------------------"
 echo " "
 # getting the latest file .torrent file
 cd downloads
