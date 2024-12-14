@@ -9,7 +9,7 @@ The script will allow you to download torrent data without installing any UTorre
 
 `pkg install git` <br>
 
-`git clone https://github.com/khansaad1275/Termux-Torrent` <br>
+`git clone https://github.com/Codec4url/Termux-Torrent.git` <br>
 
 `cd Termux-Torrent` <br>
 
