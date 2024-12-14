@@ -3,15 +3,6 @@ A simple bash tool that will allow you to **Download anything using torrent with
 
 The script will allow you to download torrent data without installing any UTorrent or bit torrent application in you phone. This is a light weight alternative to the torrent applications. It Saves your RAM, does not run in background and works perfectly.
 
-### Me:
-Author👨‍💻: https://github.com/khansaad1275 <br>
-
-Website🌎: www.Learntermux.tech <br>
-
-Instagram : https://www.instagram.com/skhan_official/ <br>
-<br>
-<br>
-
 ### Installation ⬇:
 
 `pkg update` <br>
@@ -50,7 +41,7 @@ Instagram : https://www.instagram.com/skhan_official/ <br>
 ### Complete Guide with one line installation 🔗:
 Read This post for installation and usage, I have explained everything using screenshots.
 
-https://www.learntermux.tech/2022/03/Termux-Torrent.html
+https://github.com/Codec4url/Termux-Torrent
 
 <br>
 <br>
