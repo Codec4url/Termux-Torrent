@@ -32,4 +32,4 @@ echo -e "\n"
 echo -e "\e[032m" "Process Complete!"
 
 echo -e "\e[032m" "Now you can open any .torrent file and it will open in termux start Downloading."
-echo -e "\e[033m" "For More Awesome and Useful Tool like this Visit My website ©www.LearnTermux.tech"
+echo -e "\e[033m" "Enjoy"
