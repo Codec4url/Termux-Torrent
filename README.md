@@ -28,13 +28,6 @@ The script will allow you to download torrent data without installing any UTorre
 4. The file will start downloading.
 
 <br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/32749921/156878911-4a643059-825d-459a-af97-e28ec56ba425.gif" alt="animated" />
-</p>
-
-
-
 <br>
 <br>
 
